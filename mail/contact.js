@@ -15,7 +15,7 @@ $(function () {
             $this.prop("disabled", true);
             Email.send({
                 SecureToken : "a0b85244-b42c-4004-8add-11653c5c523e",
-                To : "moiz23032194@gmail.com",
+                To : "sanjeevjha882@gmail.com",
                 From : "m06011558@gmail.com",
                 Subject :`Important ${subject}` ,
                 Body : `From  protfolio website : ${message} from ${email}`
